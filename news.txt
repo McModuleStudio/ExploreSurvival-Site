@@ -4,7 +4,7 @@
 
 We're working on the 3D engine from 7/29 to 8/10, and early creative is coming soon
 
-&bUpdate Report
+&bChangelog
 
 &cindev-210729_07
 Update Logging system.
