@@ -1,3 +1,4 @@
 &bNews
+&b
 &cAbout the coming of early creation
 &2We're working on the 3D engine from 7/29 to 8/10, and early creation is coming soon
